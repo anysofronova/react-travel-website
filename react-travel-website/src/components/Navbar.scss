@@ -22,6 +22,8 @@
       cursor: pointer;
       text-decoration: none;
       font-size: 2rem;
+      display: flex;
+      align-items: center;
     }
     .navbar__humburger {
       display: none;
@@ -44,7 +46,7 @@
           padding: 0 1rem;
           height: 100%;
           &:hover {
-            border-bottom: 1.5px solid $primary;
+            border-bottom: 1.5px solid $hover_color;
             transition: all 0.2s ease-out;
           }
         }
@@ -90,6 +92,7 @@
         left: -100%;
         opacity: 1;
         transition: all 0.5s ease;
+        justify-content: center;
         .navbar__item {
           padding: 2rem 0;
           .navbar__links {
@@ -98,9 +101,8 @@
             display: table;
             padding: 0;
             &:hover {
-              background-color: $primary;
-              color: $dark_grey;
-              border-radius: 0;
+              color: $hover_color;
+              border: none;
             }
           }
           .navbar__links-mobile {
@@ -130,7 +132,6 @@
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 1;
-        justify-content: center;
       }
     }
   }
