@@ -22,7 +22,7 @@ function Navbar() {
   window.addEventListener("resize", showButton);
 
   return (
-    <div>
+    <>
       <nav className="navbar">
         <div className="navbar__container">
           <Link to="/" className="navbar__logo" onClick={closeMobileMenu}>
@@ -72,7 +72,7 @@ function Navbar() {
           {button && <Button buttonStyle="btn__outline">SIGN-UP</Button>}
         </div>
       </nav>
-    </div>
+    </>
   );
 }
 export default Navbar;
