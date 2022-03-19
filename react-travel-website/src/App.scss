@@ -13,10 +13,11 @@
 .products,
 .sign-up {
   display: flex;
-  height: 90vh;
+  height: 91vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+  font-size: 40px;
 }
 
 .services {
@@ -25,7 +26,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: $primary;
-  font-size: 100px;
 }
 
 .products {
@@ -34,7 +34,6 @@
   background-size: fill;
   background-repeat: no-repeat;
   color: $primary;
-  font-size: 100px;
 }
 
 .sign-up {
@@ -43,5 +42,4 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: $primary;
-  font-size: 100px;
 }
