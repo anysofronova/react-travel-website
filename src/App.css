@@ -28,7 +28,7 @@
 }
 
 .services {
-  background-image: url("./img/img-2.jpeg");
+  background-image: url("img/img-2.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -36,14 +36,14 @@
 }
 
 .products {
-  background-image: url("./img/img-1.jpeg");
+  background-image: url("img/img-1.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   color: var(--primary);
 }
 
 .sign-up {
-  background-image: url("./img/img-8.jpeg");
+  background-image: url("img/img-8.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
