@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-travel-website/static/css/main.18da7fb4.css",
+    "main.js": "/react-travel-website/static/js/main.bcce55e3.js",
+    "static/media/img-2.jpeg": "/react-travel-website/static/media/img-2.bb238fc1bea8ae2474d2.jpeg",
+    "static/media/img-4.jpeg": "/react-travel-website/static/media/img-4.a31875b76d39f6458a6e.jpeg",
+    "static/media/img-3.jpeg": "/react-travel-website/static/media/img-3.6d683c0ee6824af7961a.jpeg",
+    "static/media/img-1.jpeg": "/react-travel-website/static/media/img-1.53f4843759ebec256cb9.jpeg",
+    "static/media/img-home.jpeg": "/react-travel-website/static/media/img-home.c034239ee9a63564602b.jpeg",
+    "static/media/img-9.jpeg": "/react-travel-website/static/media/img-9.f97f588f3670715d01b2.jpeg",
+    "static/media/img-8.jpeg": "/react-travel-website/static/media/img-8.fabdf94dc5be2d3dc707.jpeg",
+    "index.html": "/react-travel-website/index.html",
+    "main.18da7fb4.css.map": "/react-travel-website/static/css/main.18da7fb4.css.map",
+    "main.bcce55e3.js.map": "/react-travel-website/static/js/main.bcce55e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18da7fb4.css",
+    "static/js/main.bcce55e3.js"
+  ]
+}
