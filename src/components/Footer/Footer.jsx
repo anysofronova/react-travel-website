@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { Button } from "../ui/Button/Button";
 import {
   faFacebook,
-  faInstagram,
   faYoutube,
   faTwitter,
   faLinkedin,
@@ -88,14 +87,6 @@ function Footer() {
               aria-label="Facebook"
             >
               <FontAwesomeIcon icon={faFacebook} />
-            </Link>
-            <Link
-              class="footer__social-icon-link instagram"
-              to="/"
-              target="_blank"
-              aria-label="Instagram"
-            >
-              <FontAwesomeIcon icon={faInstagram} />
             </Link>
             <Link
               class="footer__social-icon-link youtube"
