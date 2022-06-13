@@ -1,4 +1,4 @@
-<h2>Simple React Travel app made using React framework.</h2>  
+<h2>Travel App made using React framework.</h2>  
 
 <div>
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white">
@@ -9,4 +9,4 @@
 
 **Demo:** <span >https://anysofronova.github.io/react-travel-website/</span>  
 
-![alt text](https://i.postimg.cc/dtS47Y2C/2022-05-05-18-03-09.png)
+![img](https://i.postimg.cc/dtS47Y2C/2022-05-05-18-03-09.png)
